@@ -191,4 +191,4 @@ Este resumo foi elaborado com a assistência do modelo de linguagem **ChatGPT** 
 ## Referências
 - Baptista, Valéria. *AZ-900: Introdução aos Conceitos Básicos do Microsoft Azure*. 
 - Microsoft. *Documentação oficial do Microsoft Azure*. 
-- Curso AZ-900: Introdução aos Conceitos Básicos do Microsoft Azure【4†source】【11†source】【16†source】【37†source】【38†source】【61†source】.
+- Curso AZ-900: Introdução aos Conceitos Básicos de Nuvem.
